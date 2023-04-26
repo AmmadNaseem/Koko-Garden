@@ -4,6 +4,9 @@
 ## Demo:
 https://user-images.githubusercontent.com/61114465/234561286-1b122d15-fbac-48b2-9c72-9bf632ec5552.mp4
 
+# Plant Map:
+[![Plants Demo](https://img.youtube.com/vi/93buojYY3m4/0.jpg)](https://www.youtube.com/watch?v=93buojYY3m4)
+
 
 ## Frontend Technologies:
 
